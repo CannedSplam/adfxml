@@ -1,0 +1,22 @@
+<?adf version="1.0"?><adf>
+  <prospect status="new">
+    <customer>
+      <comments>Column H</comments>
+      <contact>
+        <email>Column G</email>
+        <name part="full" type="individual">Column E</name>
+        <phone type="voice" time="day" preferredcontact="1">Column F</phone>
+      </contact>
+      <timeframe>
+        <description>Column I</description>
+      </timeframe>
+    </customer>
+    <id source="This can be set in the script" sequence="0">LGU_5ea95d774faef7b6b4ce0235ba8f8487</id>
+    <leadtype>Campaign</leadtype>
+    <provider>
+      <name>This can be set in the script. Same as id source.</name>
+      <name part="full" type="business">Same as id source.</name>
+    </provider>
+    <requestdate>2021-02-22T13:10:28-0500 this is current date/time</requestdate>
+  </prospect>
+</adf>
